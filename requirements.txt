@@ -1,0 +1,10 @@
+pymodbus==3.6.8
+seqlog~=0.3.30
+psutil~=5.9.8
+rethinkdb~=2.4.9
+pyodbc==5.1.0
+pyModbusTCP~=0.2.0
+signalrcore~=0.9.5
+python-dotenv~=1.0.1
+cx-Freeze~=7.0.0
+pyserial~=3.5
